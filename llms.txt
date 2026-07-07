@@ -1,0 +1,7 @@
+ Internee Tutor
+
+> A personalized AI tutor that guides interns through Internee.pk learning modules with adaptive lessons, real-time answers, and progress tracking.
+
+## Pages
+- [Home](/): Overview of the AI tutor for interns
+- [Sign in](/auth): Sign in or create an account
